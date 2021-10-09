@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Gaurav 
+- 👋 Hi, I’m @ItzSherlock
 - 👀 I’m interested in Web devlopement 
 - 🌱 I’m currently learning in DYPIU Pune Btech 2nd Year 
 - 💞️ I’m looking to collaborate on ...
